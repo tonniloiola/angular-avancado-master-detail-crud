@@ -1,9 +1,3 @@
-## Desenvolvedor-front
-
-Este projeto serve como um exame prático para testar a capacidade e habilidade de novos candidatos
-a Desenvolvedores do Grupo Saga, o mesmo servirá como uma prova básica para análise de conhecimento
-do candidato em: Html, CSS, TypeScript, Git e Lógica em programação.   
-
 #### _Documentações / Referências:_
 
 * [GIT](https://git-scm.com/doc)
@@ -11,22 +5,16 @@ do candidato em: Html, CSS, TypeScript, Git e Lógica em programação.
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [Angular](https://angular.io/docs)
 * [TypeSrcipt](https://www.typescriptlang.org/docs/home.html)
-* [IndexedDB](https://developer.mozilla.org/pt-BR/docs/Web/API/IndexedDB_API)
-* [Material](https://material.angular.io/)
-* [PrimeNG](https://www.primefaces.org/primeng/)
 
 #### _Observações:_
-* Utilize de boas práticas e procure limitar-se apenas ao que se encontra no tópico _Documentações / Referências_, com
-exceção para Material e PrimeNG que caso o candidato achar necessário poderá adotar apenas HTML e CSS para o
-desenvolvimento de suas Telas.
+* Projeto Angular
+- Registro de Usuarios
+- Login 
+- Controle de rotas 
+- Forms reactive
 
-* Para o armazenamento dos dados deverá ser utilizado o IndexedDB ou similar suportado por pelomenos o Navegador 
-da Web Google Chrome.
 
-* O tempo limite para entrega se dá por 5 dias, contando á partir do e-mail enviado para o candidato, o mesmo
-deverá criar uma branch com o seu nome, e o término se da após a solicitação de Pull request de sua Branch para a Master. 
-
-#### _O que devo fazer?_
+#### _
 
 * Tela de _"Login"_ onde a autenticação deve ser realizada através de e-mail e senha, esta deve ser
 a primeria tela de acesso ao sistema desde que o usuário não esteja autenticado no sistema;
